@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
 });
 
 const codePushOptions={
-	checkFrequency: codePush.ChechFrequency.ON_APP_START
+	checkFrequency: codePush.CheckFrequency.ON_APP_START
 };
 
 export default codePush(codePushOptions)(App);
