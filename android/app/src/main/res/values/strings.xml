@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">denemee</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">PndaTKoORYZnX9tz-CeBxIHeJdXVMVku4Q-kX</string>
 </resources>
