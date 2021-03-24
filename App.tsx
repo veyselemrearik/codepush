@@ -81,8 +81,8 @@ const App: () => Node = () => {
           <Section title="Debug">
             <DebugInstructions />
           </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
+          <Section title="Test">
+            degişim2
           </Section>
           <LearnMoreLinks />
         </View>
